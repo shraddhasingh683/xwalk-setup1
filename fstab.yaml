@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p107005-e259039-cmstg.adobeaemcloud.com/bin/franklin.delivery/shraddhasingh683/xwalk-setup1/main
+    type: "markup"
+    suffix: ".html"
